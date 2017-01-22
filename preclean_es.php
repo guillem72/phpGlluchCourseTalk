@@ -1,5 +1,8 @@
 <?php
-
+/**
+ * Deletes keywords from the json. This keywords are the same for all
+ * courses and doesn't add any useful information.
+ **/
 clean_all();
 
 function clean_all()
