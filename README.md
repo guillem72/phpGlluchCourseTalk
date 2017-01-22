@@ -1,4 +1,4 @@
-#phpGlluchCourseTalk
+# phpGlluchCourseTalk
  
  
 phpGlluchMiriadaX is a collection of scripts to obtain 
@@ -14,6 +14,7 @@ Tested in january 2017
  Rip all the site, for example with [HTTrak](http://www.httrack.com/).
  
  ### Get local links
+ 
  Go to the ripped site, to *coursetalk.com/providers*. 
  For each provider, go to *PROVIDERNAME/courses*. 
  The list of directories is the list of the courses 
@@ -25,6 +26,7 @@ Tested in january 2017
  The above comand has to be done for every provider.
  
  ### Place courses_links0.txt
+ 
  Move the file *courses_links0.txt* from your home directory 
  to the directory of phpGlluchCourseTalk.
  
@@ -33,7 +35,7 @@ Tested in january 2017
  You need API Key for detectlanguage.php. The write it in lang_sample.php and rename the file to lang.php
  
  
- ##Execution order
+ ## Execution order
  
  This files has to be executed in php CLI in this order:
  
