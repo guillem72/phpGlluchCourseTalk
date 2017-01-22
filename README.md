@@ -8,7 +8,9 @@ the metadata from a group of
 Tested in january 2017
  
  ## Setup
+ 
  ### Get all courses
+ 
  Rip all the site, for example with [HTTrak](http://www.httrack.com/).
  
  ### Get local links
